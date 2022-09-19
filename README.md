@@ -4,11 +4,8 @@ Repository created to store the codes developed in Computational Methodes of Phy
 
 Each branch relates to a math or physical method:
 
-1. Numerical differentiation
-2. Zeros of a function
-3. Madhava-Leibniz series
-4. Playng dice
-5. Position and speed functions
-
-
-
+* Numerical differentiation
+* Zeros of a function
+* Madhava-Leibniz series
+* Playng dice
+* Position and speed functions
