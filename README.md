@@ -1,4 +1,4 @@
-# :telescope: Computationa Methods Of Physics
+# :telescope: Computational Methods Of Physics
 
 Repository created to store the codes developed in Computational Methodes of Physics at UFRGS.
 
